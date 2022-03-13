@@ -4,18 +4,18 @@ I'm looking forward to getting to know you! This document is not intended to rep
 
 ## My role as a Tech Lead
 
-**TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to our team, wider engineering organisation and keeping our customers and business secure.**
+**TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to our team, engineering organisation and keeping our customers and business secure.**
 
 More granularly:
 
-1.  I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
+1.  I am here to make sure you are both successful and happy. I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
 2.  I am here to make sure our team is successful and pointed in the right direction. I am here to make sure our team is all aligned and pushing in the same direction.
-3.  I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
-4.  I fully intend to get stuck in and engineer write some code too!
+3.  I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we are asked to do.
+4.  I fully intend to get stuck in and engineer solutions too!
 
-These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
+These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, creating secure solutions will most likely not be my top priority.
 
-Additionally: My job is _not_ to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. When I asked some other people for feedback on this README, one asked about this point, and then said something I thought was poignant: "I am _accountable_ for the decisions the team make, even if I’m not the one making them most of the time."
+Additionally: My job is _not_ to tell you exactly what to do and how to do it. When I asked some other people for feedback on this README, one asked about this point, and then said something I thought was poignant: "I am _accountable_ for the decisions the team make, even if I’m not the one making them most of the time."
 
 ## Feedback
 
@@ -25,7 +25,7 @@ If you can give me this feedback face-to-face (Zoom/Meet or in person), that's m
 
 If you're not comfortable giving me some feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me.
 
-Similarly, if you have feedback for a team member or colleague, I encourage you to give it to them directly; if you're not comfortable doing so, let's chat and I can either get the feedback to them or we can figure out a way to deliver it that makes you comfortable.
+Similarly, if you have feedback for a team member or colleague, I encourage you to give it to them directly; if you're not comfortable doing so, let's chat and I can either get the feedback to them or we can figure out a way to deliver it in a method that makes you comfortable.
 
 ## One-on-ones
 
@@ -71,12 +71,13 @@ Take this document with a grain of salt: I wrote it! I have never experienced ha
 This document is meant to focus on how I work and what to expect from me. We will discuss expectations I have of you and the rest of the team soon after we begin working together, and I will link you to an internal onboarding information where possible.
 
 ## My interests
-Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are good bets 
+Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are some good bets.
 
-* Indoor climbing / bouldering. I started back in early 2019 and during lockdown (2020-21) I didnt really pursue it further. Come 2022 Im enjoying being back, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 6C+ over the remainder of this year.
+* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year.
 
 * Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons.
  
-* I like to read, both fiction and non-fiction. I am always looking for suggestions.
+* I like to read, both fiction and non-fiction. I am always looking for suggestions. I reread Bad Blood over xmas, and am currently reading The art of intrusion (whilst commuting).
 
-* Cooking. I dont do it often but when I do I like to give it my full attention and learning. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie.
+* Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie.
+
