@@ -77,7 +77,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons.
  
-* I like to read, both fiction and non-fiction. I am always looking for suggestions. I reread Bad Blood over xmas, and am currently reading The art of intrusion (whilst commuting).
+* I like to read, both fiction and non-fiction. I am always looking for suggestions. I reread Bad Blood over January, and am currently reading High output management by Andrew Grove, whilst commuting.
 
 * Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie.
 
