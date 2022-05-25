@@ -77,7 +77,6 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons.
  
-* I like to read, both fiction and non-fiction. I am always looking for suggestions. I read Bad Blood over Christmas, and am currently reading High Output Management by Andrew Grove, whilst commuting. Ive got some PTO this month and am taking the first complete translation of The tibetan book of the dead as well as The order of time by Carlo Rovelli. 
+* I like to read, both fiction and non-fiction. I am always looking for suggestions. I read Bad Blood over Christmas, and am currently reading High Output Management by Andrew Grove, whilst commuting. Ive had some PTO last month and started reading The order of time by Carlo Rovelli, a book I was gifted.
 
 * Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie.
-
