@@ -43,7 +43,7 @@ I will give you feedback on how you're doing continuously, including in our one-
 
 ## My schedule
 
-I currently work in a hybrid fashion with most of that time being remote. I generally consider my work hours to be 930am to 6pm, though this can vary depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar if I am out for a day or more).
+I currently work in a hybrid fashion with most of that time being remote. I generally consider my work hours to be 830am to 530pm, though this can vary depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar if I am out for a day or more).
 
 I will update this readme if a in-office option arises for our team or organisation.
 
@@ -73,7 +73,7 @@ This document is meant to focus on how I work and what to expect from me. We wil
 ## My interests
 Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are some good bets.
 
-* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year.
+* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year. I am in need of a new pair of climbing shoes..
 
 * Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons.
  
