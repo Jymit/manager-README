@@ -2,7 +2,7 @@
 
 I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
 
-## My role as a Tech Lead
+## My role as an Engineering Manager
 
 **TL;DR: I am here to make sure our team is successful, happy and working on the things that are most important to our team, engineering organisation and keeping our customers and business secure.**
 
