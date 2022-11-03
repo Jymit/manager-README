@@ -2,7 +2,7 @@
 
 I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
 
-## My role as an Engineering Manager
+## My role as an Engineering Manager in Security
 
 **TL;DR: I am here to make sure our team is successful, happy and working on the things that are most important to our team, engineering organisation and keeping our customers and business secure.**
 
@@ -29,7 +29,7 @@ Similarly, if you have feedback for a team member or colleague, I encourage you 
 
 ## One-on-ones
 
-I will put twenty-five minutes on your calendar each week for a one-on-one. If you need more time, let me know and I will adjust. I will probably schedule our first one-on-one for an hour just to be sure we have time to go over the team mission and other introductory things; don't feel the need to prepare for it.
+I will put 45 minutes in your calendar each week for a one-on-one. If you need more time, let me know and I will adjust. I will probably schedule our first one-on-one for an hour just to be sure we have time to go over the team mission and other introductory things; don't feel the need to prepare for it.
 
 One-on-ones are _your time_. I will probably have some things to discuss with you, but this is first and foremost your opportunity to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on or that you're stuck on, that is fine with me, but those are generally better-suited to a quick chat, an @ on a Github issue, a Slack message, or a separate meeting.
 
@@ -73,10 +73,10 @@ This document is meant to focus on how I work and what to expect from me. We wil
 ## My interests
 Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are some good bets.
 
-* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year. I am in need of a new pair of climbing shoes..
+* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year. Currently in need of a new pair of climbing shoes..not climbed since Feb as my shoes were stolen, lol.
 
-* Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons.
+* Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons. Not ran a bunch this year but booked in for a December 10k.
  
-* I like to read, both fiction and non-fiction. I am always looking for suggestions. I read Bad Blood over Christmas, and am currently reading High Output Management by Andrew Grove, whilst commuting. Another book ive started very recently and almost finished with is surrounded by idiots, a great read.
+* I like to read, both fiction and non-fiction. I am always looking for suggestions. I read Bad Blood over Christmas, and am currently reading High Output Management by Andrew Grove, whilst commuting. Another book ive started very recently and almost finished with is surrounded by idiots, a great read. Yet another book started with others not being finished yet is Radical Candor.
 
-* Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie.
+* Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie. Winter is here! and so are roasted veggie soaps, AMA.
