@@ -2,7 +2,7 @@
 
 I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
 
-## My role as an Engineering Manager in Security
+## My role as an Engineering Manager
 
 **TL;DR: I am here to make sure our team is successful, happy and working on the things that are most important to our team, engineering organisation and keeping our customers and business secure.**
 
@@ -29,7 +29,7 @@ Similarly, if you have feedback for a team member or colleague, I encourage you 
 
 ## One-on-ones
 
-I will put 45 minutes in your calendar each week for a one-on-one. If you need more time, let me know and I will adjust. I will probably schedule our first one-on-one for an hour just to be sure we have time to go over the team mission and other introductory things; don't feel the need to prepare for it.
+I will put 30 minutes in your calendar bi-weekly for a one-on-one. If you need more time, let me know and I will adjust. I will probably schedule our first one-on-one for an hour just to be sure we have time to go over the team mission and other introductory things; don't feel the need to prepare for it.
 
 One-on-ones are _your time_. I will probably have some things to discuss with you, but this is first and foremost your opportunity to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on or that you're stuck on, that is fine with me, but those are generally better-suited to a quick chat, an @ on a Github issue, a Slack message, or a separate meeting.
 
@@ -43,7 +43,7 @@ I will give you feedback on how you're doing continuously, including in our one-
 
 ## My schedule
 
-I currently work in a hybrid fashion with most of that time being remote. I generally consider my work hours to be 830am to 530pm, though this can vary depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar if I am out for a day or more).
+I currently work in a hybrid fashion with most of that time in-office. I generally consider my work hours to be 8am to 6pm, though this can vary depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar if I am out for a day or more).
 
 I will update this readme if a in-office option arises for our team or organisation.
 
@@ -60,11 +60,11 @@ Similarly, if you email or Slack me outside of my working hours, I may not respo
 1.  Slack me or set up an impromptu Zoom or Google Meet.
 2.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 
-Even though I work from home now, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by a desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
+Even though we work remote on some days, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by a desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
 ## Caveat
 
-Take this document with a grain of salt. I have never experienced having me as a manager. If I'm your TL and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Slack. :smiley:
+Take this document with a grain of salt. I have never experienced having me as a manager. If I'm your Technical Lead (TL) and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Slack. :smiley:
 
 ## Expectations of you
 
