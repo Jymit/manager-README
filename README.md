@@ -73,10 +73,11 @@ This document is meant to focus on how I work and what to expect from me. We wil
 ## My interests
 Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are some good bets.
 
-* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year. Currently in need of a new pair of climbing shoes..not climbed since Feb as my shoes were stolen, lol.
+* Indoor climbing / bouldering. I started back in early 2019 and didnt make an effort during lockdown (2020-21). Come 2022 I am enjoying being back on the wall, I climb at around v3 - v4 which is 6A - 6B+ hoping to get this to a v5 | 6C+ over the remainder of this year. Currently in need of a new pair of climbing shoes..not climbed since my shoes were stolen, lol.
+* its 2025 and I still havnt yet. I am hoping to pick up Brazilian Jiu Jitsu.
 
-* Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons. Not ran a bunch this year but booked in for a December 10k.
+* Cycling & running. Have cycled from Birmingham to London over a 24 hour period as well as ran numerous 5ks, 10kms and a few half marathons. 2024 saw me get back into running, averaging 15km a week at peak, in summer. 
  
-* I like to read, both fiction and non-fiction. I am always looking for suggestions. I read Bad Blood over Christmas, and am currently reading High Output Management by Andrew Grove, whilst commuting. Another book ive started very recently and almost finished with is surrounded by idiots, a great read. Yet another book started with others not being finished yet is Radical Candor.
+* I like to read, both fiction and non-fiction. I am always looking for suggestions, so if you see this, send me your best book that helped shape you / your career. I've got a lot of paperback books. I start many books and have some unfinished, and for that reason in 2024 I started using audiobooks (audible). Breathe by Rickson Gracie was my favourite, Extreme ownership by Jocko Willink. 2025 first book completed LLM Engineer's Handbook: Master the art of engineering large language models from concept to production.
 
-* Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie. Winter is here! and so are roasted veggie soaps, AMA.
+* Cooking. I dont do it often but when I do I like to give it my full attention. I always want to hear about new recipes you've tried or want to try, or just chat about cooking in general. I am quite the foodie. Winter is here! and so are roasted veggie soaps. I like potatoes in it's many forms.
